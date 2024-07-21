@@ -90,7 +90,7 @@ require (
 	github.com/segmentio/ksuid v1.0.4
 	go.uber.org/multierr v1.8.0
 	google.golang.org/genproto v0.0.0-20220602131408-e326c6e8e9c8
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
